@@ -1,2 +1,2 @@
 # Currency_Converter
-Using Api
+Using Api and Also using javascript
